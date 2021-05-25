@@ -22,3 +22,6 @@
 
 * Deekshitha Bachinaepally
 <img src="images/deekshitha.JPG" alt="deekshitha" width="200" height="200"/>
+
+### Project Charter
+* [Click to view our Project Charter](markdown/charter.md)
