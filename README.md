@@ -11,17 +11,17 @@
 * Project to plan, procure and set up the associated physical requirements, software and hardware equipment for an IT Company.
 
 ### Our Team
-* Pramod Reddy Gonegari
+* [Pramod Reddy Gonegari](https://github.com/pramod096)
 <img src="images/Pramod.jpg" alt="pramod" width="200" height="200"/>
 
-* Anusha Kanagala
+* [Anusha Kanagala](https://github.com/Anushakanagala)
 <img src="images/anusha.jpg" alt="anusha" width="200" height="200"/>
 
-* Narandra Kumar Gunturu
-<img src="images/narendra.JPG" alt="narendra" width="200" height="200"/>
+* [Narandra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
+<img src="images/Narendra.jpeg" alt="narendra" width="200" height="200"/>
 
-* Deekshitha Bachinaepally
-<img src="images/deekshitha.JPG" alt="deekshitha" width="200" height="200"/>
+* [Deekshitha Bachinaepally](https://github.com/deekshitha22)
+<img src="images/Deekshitha.jpeg" alt="deekshitha" width="200" height="200"/>
 
 ### Project Charter
 * [Click to view our Project Charter](markdown/charter.md)
@@ -66,7 +66,12 @@
   * 5.2 Project Completion
 
 ### Schedule
-* Start Date - 06/01/2021
-* End Date   - 09/30/2021
-* Duration   - 3 months
- 
+* Start Date
+  * 06/01/2021
+* End Date
+  * 09/30/2021
+* Duration
+  * 3 months
+
+### Budget
+
