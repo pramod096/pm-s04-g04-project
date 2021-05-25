@@ -69,9 +69,9 @@
 * Start Date
   * 06/01/2021
 * End Date
-  * 09/30/2021
+  * 11/09/2021
 * Duration
-  * 3 months
+  * 4 months
 
 ### Budget
 
