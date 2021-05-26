@@ -79,7 +79,7 @@
 * Duration
   * 4 months
 
-<img src="Schedule1.png" alt="schedule1" width="400" heihjt="400"/>
+<img src="images/Schedule1.png" alt="schedule1" width="600" heihjt="600"/>
 
 ### Budget
 * Yet to be decided.
