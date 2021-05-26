@@ -84,4 +84,5 @@
 <img src="images/schedule2.png" alt="schedule2" width="600" height="400"/>
 
 ### Budget
-* Yet to be decided.
+
+* The Comapany has allocated $150,000 for this project. Most of the cost for this project will be for hardware equipment.
