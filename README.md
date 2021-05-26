@@ -29,12 +29,6 @@
 
 * [Deekshitha Bichinaepally](https://github.com/deekshitha22)
 
-<img src="Schedule1.png" alt="schedule1" width="400" height="400"/>
-
-<img src="Schedule2.png" alt="schedule2" width="400" height="400"/>
-
-<img src="budget.png" alt="Budget" width="400" height="400"/>
-
 ### Project Charter
 * [Click to view our Project Charter](markdown/charter.md)
 
