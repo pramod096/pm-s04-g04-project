@@ -8,7 +8,7 @@
 
 ### Our Project
 * Project Management to Upgrade IT Equipment
-* Project to plan, procure and set up the associated physical requirements, software and hardware equipment for an IT Company.
+* Project to plan, procure and set up the associated physical requirements, Software and Hardware equipment for an IT Company. Our objective is to upgrade the equipment of an IT company as suitable to the product development environment of the Company.
 
 ### Our Team
 
@@ -23,11 +23,11 @@
 
 <img src="images/Narendra.jpeg" alt="narendra" width="200" height="200"/>
 
-* [Narandra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
+* [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
 
 <img src="images/Deekshitha.jpeg" alt="deekshitha" width="200" height="200"/>
 
-* [Deekshitha Bachinaepally](https://github.com/deekshitha22)
+* [Deekshitha Bichinaepally](https://github.com/deekshitha22)
 
 ### Project Charter
 * [Click to view our Project Charter](markdown/charter.md)
