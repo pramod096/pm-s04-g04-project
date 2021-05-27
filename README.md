@@ -30,7 +30,7 @@
 * [Deekshitha Bichinaepally](https://github.com/deekshitha22)
 
 ### Project Charter
-* [Click to view our Project Charter](markdown/charter.md)
+* [Click to view our Project Charter](charter/charter.md)
 
 ### Scope
 #### Work Breakdown Structure
@@ -75,7 +75,7 @@
 * Start Date
   * 06/01/2021
 * End Date
-  * 11/09/2021
+  * 09/28/2021
 * Duration
   * 4 months
 
