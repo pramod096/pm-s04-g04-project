@@ -85,6 +85,8 @@
 
 <img src="images/schedule2.png" alt="schedule2" width="600" height="400"/>
 
+* [Here is our Detailed Schedule](budget/budget.xlsx)
+
 ### Budget
 
 * The Comapany has allocated $150,000 for this project. Most of the cost for this project will be for hardware equipment.
