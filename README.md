@@ -7,7 +7,9 @@
 * Budget
 
 ### Our Project
-* Project Management to Upgrade IT Equipment
+**Company Name:** Techie Geeks
+
+**Project Title:** Project Management to Upgrade IT Equipment
 * Project to plan, procure and set up the associated physical requirements, Software and Hardware equipment for an IT Company. Our objective is to upgrade the equipment of an IT company as suitable to the product development environment of the Company.
 
 ### Our Team
