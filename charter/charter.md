@@ -44,7 +44,7 @@
 > | Pramod Reddy Gonegari | Project Manager | pramodreddy096@gmail.com |
 > | Anusha Kanagala | Team Coordinator | kanagalaanusha777@gmail.com |
 > | Narendra Kumar Gunturu | Systems Administrator | gunturunarendra1998@gmail.com |
-> | Deekshitha Bichinaepally | Software Administrator | deekshithab22@gmail.com |
+> | Deekshitha Bichinaepally | Software Administrator | deekshithab1999@gmail.com |
 
 <hr>
 
