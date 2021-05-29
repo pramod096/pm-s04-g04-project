@@ -40,7 +40,6 @@
  * 1.2 Develop Project Charter
  * 1.3 Project Sponsor reviews the project charter 
  * 1.4 Project charter signed/approved
- * 1.5 Evaluations and recommendations
  
 #### 2. Planning 
  * 2.1 Develop preliminary scope statement 
