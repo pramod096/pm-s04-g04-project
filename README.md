@@ -83,7 +83,7 @@
 
 <img src="images/scope2.png" alt="scope2" width="600" height="400"/>
 
-[View the Project Schedule](scope/schedule.xlsx)
+[View the Project Schedule](scope/schedule.mpp)
 
 ### Budget
 
