@@ -77,13 +77,13 @@
 * End Date
   * 11/09/2021
 * Duration
-  * 4 months
+  * 10 weeks
 
 <img src="images/scope1.png" alt="scope1" width="600" height="400"/>
 
 <img src="images/scope2.png" alt="scope2" width="600" height="400"/>
 
-[View the Project Schedule](scope/schedule.mpp)
+[View the Project Schedule](schedule/schedule.mpp)
 
 ### Budget
 
@@ -92,3 +92,8 @@
 <img src="images/budget.png" alt="Budget" width="600" height="400"/>
 
 [Click to view our Budget](budget/budget.xlsx)
+
+### References
+
+* Company Logo - [https://www.brandcrowd.com/maker/tag/geek](https://www.brandcrowd.com/maker/tag/geek)
+* Project Charter - [https://thedigitalprojectmanager.com/project-charter/](https://thedigitalprojectmanager.com/project-charter/)
