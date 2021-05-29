@@ -30,7 +30,7 @@
 * [Deekshitha Bichinaepally](https://github.com/deekshitha22)
 
 ### Project Charter
-* [Click to view our Project Charter](markdown/charter.md)
+* [Click to view our Project Charter](charter/charter.md)
 
 ### Scope
 #### Work Breakdown Structure
@@ -40,7 +40,6 @@
  * 1.2 Develop Project Charter
  * 1.3 Project Sponsor reviews the project charter 
  * 1.4 Project charter signed/approved
- * 1.5 Evaluations and recommendations
  
 #### 2. Planning 
  * 2.1 Develop preliminary scope statement 
@@ -79,12 +78,16 @@
 * Duration
   * 4 months
 
-<img src="images/Schedule1.png" alt="schedule1" width="600" height="400"/>
+<img src="images/scope1.png" alt="scope1" width="600" height="400"/>
 
 <img src="images/schedule2.png" alt="schedule2" width="600" height="400"/>
+
+[View the Project Schedule](scope/schedule.xlsx)
 
 ### Budget
 
 * The Comapany has allocated $150,000 for this project. Most of the cost for this project will be for hardware equipment.
 
 <img src="images/budget.png" alt="Budget" width="600" height="400"/>
+
+[Click to view our Budget](budget/budget.xlsx)
