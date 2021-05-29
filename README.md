@@ -68,7 +68,7 @@
   * 4.3 Prepare performance evaluation
   
 #### 5. Closing
-  * 5.1 Reviews & Feedback
+  * 5.1 Final Report
   * 5.2 Project Completion
 
 ### Schedule
@@ -81,9 +81,9 @@
 
 <img src="images/scope1.png" alt="scope1" width="600" height="400"/>
 
-<img src="images/schedule2.png" alt="schedule2" width="600" height="400"/>
+<img src="images/scope2.png" alt="scope2" width="600" height="400"/>
 
-[View the Project Schedule](scope/schedule.xlsx)
+[View the Project Schedule](scope/schedule.mpp)
 
 ### Budget
 
