@@ -68,7 +68,7 @@
   * 4.3 Prepare performance evaluation
   
 #### 5. Closing
-  * 5.1 Reviews & Feedback
+  * 5.1 Final Report
   * 5.2 Project Completion
 
 ### Schedule
