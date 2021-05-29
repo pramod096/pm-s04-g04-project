@@ -77,7 +77,7 @@
 * Start Date
   * 06/01/2021
 * End Date
-  * 09/28/2021
+  * 08/12/2021
 * Duration
   * 4 months
 
