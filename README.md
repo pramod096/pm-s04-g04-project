@@ -82,8 +82,12 @@
 
 <img src="images/schedule2.png" alt="schedule2" width="600" height="400"/>
 
+[View the Project Schedule](scope/schedule.xlsx)
+
 ### Budget
 
 * The Comapany has allocated $150,000 for this project. Most of the cost for this project will be for hardware equipment.
 
 <img src="images/budget.png" alt="Budget" width="600" height="400"/>
+
+[Click to view our Budget](budget/budget.xlsx)
