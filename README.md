@@ -30,7 +30,7 @@
 * [Deekshitha Bichinaepally](https://github.com/deekshitha22)
 
 ### Project Charter
-* [Click to view our Project Charter](markdown/charter.md)
+* [Click to view our Project Charter](charter/charter.md)
 
 ### Scope
 #### Work Breakdown Structure
@@ -78,7 +78,7 @@
 * Duration
   * 4 months
 
-<img src="images/Schedule1.png" alt="schedule1" width="600" height="400"/>
+<img src="images/scope1.png" alt="scope1" width="600" height="400"/>
 
 <img src="images/schedule2.png" alt="schedule2" width="600" height="400"/>
 
