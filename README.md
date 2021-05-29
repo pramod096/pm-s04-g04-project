@@ -52,14 +52,15 @@
  * 2.8 Approval of all the plans
  
 #### 3. Execution
-  * 3.1 Gather Requirements
-  * 3.2 Procure software 
+  * 3.1 Procure Systems
+  * 3.2 Install the Systems 
   * 3.3 Setting up software in systems
   * 3.4 Procure hardware servers
   * 3.5 Backup existing server files and server settings
   * 3.5 Install new servers
   * 3.6 Restore backed up servers
   * 3.7 Update Systems
+  * 3.8 Execution Complete
   
 #### 4. Monitoring and Controlling
   * 4.1 Identify defects in the systems
