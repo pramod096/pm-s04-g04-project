@@ -75,9 +75,9 @@
 * Start Date
   * 06/01/2021
 * End Date
-  * 11/09/2021
+  * 08/12/2021
 * Duration
-  * 10 weeks
+  * 14 weeks
 
 <img src="images/scope1.png" alt="scope1" width="600" height="400"/>
 
